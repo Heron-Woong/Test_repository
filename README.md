@@ -2,7 +2,4 @@
 
 - test
 - test test
-- checking
-- chkdlf
-- checkout Kyungsoo Branch
-- checkout second time
+- test test test
